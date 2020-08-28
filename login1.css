@@ -3,7 +3,9 @@
 .left-panel{
     height:100%;
 }
-
+.main-div{
+    overflow:hidden;
+}
 .main-div::before{
   content: "";
   position: absolute;
